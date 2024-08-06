@@ -1,2 +1,2 @@
 artikel1
-![](/artikel1.avif)
+:afbeelding{src="https://raw.githubusercontent.com/BSTN/widt-retoriek-content/main/artikel1.avif"}

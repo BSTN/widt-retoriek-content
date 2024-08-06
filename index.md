@@ -1,1 +1,1 @@
-index test
+:landing{link="/intro"}

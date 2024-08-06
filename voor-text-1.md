@@ -8,6 +8,6 @@ focus als moderator ligt er dus vooral op om de discussie zo constructief mogeli
 Er moet minimaal 1 reactie worden verwijderd, en er mogen 1 - 3 reacties uitgelicht worden waarvan jij
 denkt dat ze een goed voorbeeld zullen zijn voor andere reageerders.
 
-::volgende{link="/artikel1"}
+::volgende{link="/artikel-1"}
 Klik hier voor het eerste artikel
 ::

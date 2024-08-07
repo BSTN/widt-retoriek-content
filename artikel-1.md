@@ -1,1 +1,1 @@
-:artikel{nummer=1}
+:artikel{nummer=1 volgende="/tussenpagina"}

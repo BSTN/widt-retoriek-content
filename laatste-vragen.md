@@ -35,4 +35,4 @@ Ik vond het artikel over migratie erg overtuigend
 Ik vond het artikel over klimaatverandering erg overtuigend
 ::
 
-:volgende{link=/afsluiting}
+:volgende{link=/afsluiting opslaan=true}

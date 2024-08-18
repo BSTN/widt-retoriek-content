@@ -4,6 +4,10 @@ We willen je heel erg bedanken voor je deelname. Hieronder is nog ruimte om opme
 laten, en als je nog vragen voor ons hebt dan kan je contact opnemen met Liesje van der Linden via
 [L.C.A.vdrLinden@tilburguniversity.edu](mailto:L.C.A.vdrLinden@tilburguniversity.edu)
 
-Tekst vak voor opmerkingen wat niet verplicht is om in te vullen
+::opmerkingen{reference="opmerkingen"}
+Vul hier eventuele opmerkingen in:
+::
 
-:afsluiten
+::afsluiten
+Versturen en afsluiten
+::

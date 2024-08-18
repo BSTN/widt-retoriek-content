@@ -10,7 +10,7 @@
 3. Met welk geslacht identificeer jij jezelf het meest?
 ::
 
-::age{reference='leeftijd'}
+::multiplechoice{reference='leeftijd' options="['18-25','26-30','31-35','36-40','41-45','46-50','51-55']"}
 4. Wat is je leeftijd?
 ::
 
@@ -31,6 +31,6 @@
 8. Hoe vaak reageer je zelf op online nieuwsberichten?
 ::
 
-::volgende{link="/voor-text-1"}
+::volgende{link="/voor-text-1" opslaan=true}
 Start de test
 ::

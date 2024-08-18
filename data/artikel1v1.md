@@ -1,6 +1,6 @@
 artikel 1 v1
 
-:afbeelding{src="https://raw.githubusercontent.com/BSTN/widt-retoriek-content/main/artikel1.jpeg"}
+:afbeelding{src="/artikel1.jpeg"}
 
 # In Nederland geboren Mikael (11) moet worden uitgezet naar Armenië, oordeelt Raad van State
 

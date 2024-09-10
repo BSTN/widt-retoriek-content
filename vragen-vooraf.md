@@ -32,5 +32,9 @@
 ::
 
 ::volgende{link="/voor-text-1" opslaan=true}
-Start de test
+---
+check: ['vooraf1','vooraf2','vooraf3', 'leeftijd', 'vooraf5', 'vooraf6', 'vooraf7', 'vooraf8']
+---
+Start de test 
 ::
+-

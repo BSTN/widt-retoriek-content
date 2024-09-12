@@ -5,7 +5,7 @@ voor je
 Op een Likertschaal van 1—7 van ‘Helemaal mee oneens’ naar ‘Helemaal mee eens’
 
 ::likert{reference="laatstevraag1"}
-CONTENT vraag eerste artikel]
+CONTENT vraag eerste artikel
 ::
 ::likert{reference="laatstevraag2"}
 CONTENT vraag eerste artikel

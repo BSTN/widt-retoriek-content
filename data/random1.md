@@ -1,23 +1,4 @@
 ::artikel1
----
-comments:
-  - comment: "Klimaat Hoax. Nederland is nooit zo koud geweest. Antarctica groeit als kool. De wereld verandert altijd. Paniek om niets"
-    reference: a1.1
-  - comment: "Ik vraag me af wat het nut is van dit artikel. Ik heb sterk de indruk dat omdat het weer in Europa deze zomer tegenvalt dat ze dit soort dingen gaan publiceren om vooral de aandacht te houden bij de global warming."
-    reference: a1.2
-  - comment: "jammer dat mensen als jij mogen stemmen, kerel ga eerst lezen voor je je mond op trekt"
-    reference: a1.3
-  - comment: "De enige manier waarop we, in ons huidige systeem, ooit minder zullen gaan uitstoten, is als men dáár goed geld mee verdienen kan. Zonder verdienmodel is het alleen politiek gezwets. Onze maatschappij draait om geld, als milieu geld kóst blijven we het op de tweede plaats zetten."
-    reference: a1.4
-  - comment: "En zo kan ik als jongvolwassen, redelijk machteloos, toekijken hoe de wereld langzaamaan vergaat. Hopelijk kan het nog worden omgedraaid. Ik mag na gaan denken of ik uberhaupt nog kinderen kan nemen, als ik dat graag wil."
-    reference: a1.5
-  - comment: "Lekker man. Als je gelukt hebt, dobber jij later lekker op een luchtbedje boven je eigen huis van het weer te genieten ;)"
-    reference: a1.6
-  - comment: "Klimaatverandering is van allertijden. Veel mensen halen milieu en klimaat door elkaar. Dat de mens invloed heeft op het klimaat is klinkklare onzin. Laten we met zijn allen het milieu aanpakken maar hou aub. op met die klimaat poppenkast."
-    reference: a1.7
-  - comment: "Klimaatwetenschap is het nazisme van deze tijd… Ze leggen hun regeltjes op om de gewone burger te controleren…. Bedankt redactie voor deze propaganda. links groen propaganda platform!"
-    reference: a1.8
----
 # 1. In Nederland geboren Mikael (11) moet worden uitgezet naar Armenië, oordeelt Raad van State
 
 De in Nederland geboren 11-jarige Mikael moet samen met zijn moeder worden uitgezet naar Armenië. Ze hebben zich te veel aan het zicht van de instanties onttrokken, oordeelde de Raad van State woensdagochtend.
@@ -55,25 +36,6 @@ Nederland.”
 ::
 
 ::artikel2
----
-comments:
-  - comment: "Klimaat Hoax. Nederland is nooit zo koud geweest. Antarctica groeit als kool. De wereld verandert altijd. Paniek om niets"
-    reference: a2.1
-  - comment: "Ik vraag me af wat het nut is van dit artikel. Ik heb sterk de indruk dat omdat het weer in Europa deze zomer tegenvalt dat ze dit soort dingen gaan publiceren om vooral de aandacht te houden bij de global warming."
-    reference: a2.2
-  - comment: "jammer dat mensen als jij mogen stemmen, kerel ga eerst lezen voor je je mond op trekt"
-    reference: a2.3
-  - comment: "De enige manier waarop we, in ons huidige systeem, ooit minder zullen gaan uitstoten, is als men dáár goed geld mee verdienen kan. Zonder verdienmodel is het alleen politiek gezwets. Onze maatschappij draait om geld, als milieu geld kóst blijven we het op de tweede plaats zetten."
-    reference: a2.4
-  - comment: "En zo kan ik als jongvolwassen, redelijk machteloos, toekijken hoe de wereld langzaamaan vergaat. Hopelijk kan het nog worden omgedraaid. Ik mag na gaan denken of ik uberhaupt nog kinderen kan nemen, als ik dat graag wil."
-    reference: a2.5
-  - comment: "Lekker man. Als je gelukt hebt, dobber jij later lekker op een luchtbedje boven je eigen huis van het weer te genieten ;)"
-    reference: a2.6
-  - comment: "Klimaatverandering is van allertijden. Veel mensen halen milieu en klimaat door elkaar. Dat de mens invloed heeft op het klimaat is klinkklare onzin. Laten we met zijn allen het milieu aanpakken maar hou aub. op met die klimaat poppenkast."
-    reference: a2.7
-  - comment: "Klimaatwetenschap is het nazisme van deze tijd… Ze leggen hun regeltjes op om de gewone burger te controleren…. Bedankt redactie voor deze propaganda. links groen propaganda platform!"
-    reference: a2.8
----
 # In Nederland geboren Mikael (11) moet worden uitgezet naar Armenië, oordeelt Raad van State
 
 De in Nederland geboren 11-jarige Mikael moet samen met zijn moeder worden uitgezet naar Armenië. Ze hebben zich te veel aan het zicht van de instanties onttrokken, oordeelde de Raad van State woensdagochtend.

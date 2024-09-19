@@ -35,6 +35,7 @@ options:
   - 41-45
   - 46-50
   - 51-55
+---
 ::
 
 ::multiplechoice
@@ -50,6 +51,7 @@ options:
   - Voorbereidend wetenschappelijk onderwijs (vwo)
   - Hoger beroeps onderwijs (hbo)
   - wetenschappelijk onderwijs (wo)
+---
 ::
 
 ::howoften

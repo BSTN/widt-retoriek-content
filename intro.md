@@ -20,4 +20,4 @@ Sciences via [tshd.redc@tilburguniversity.edu](mailto:tshd.redc@tilburguniversit
 Voor vragen over het onderzoek kun je terecht bij Liesje van der Linden,
 [L.C.A.vdrLinden@tilburguniversity.edu](mailto:L.C.A.vdrLinden@tilburguniversity.edu)
 
-:volgende{link="/akkoord"}
+:volgende{link="/vragen-vooraf"}

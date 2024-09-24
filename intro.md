@@ -1,23 +1,25 @@
-__Voordat we beginnen zijn er nog een paar dingen waar we je op willen wijzen.__
+## “Welkom bij het ‘Wie is de Trol’ experiment!
 
-Jouw deelname aan dit experiment is **geheel vrijwillig**. Je mag op elk moment besluiten om toch niet
-meer mee te doen (ook tijdens het modereren) zonder dat daar negatieve consequenties aan verbonden
-zijn, en zonder dat je hier een uitleg voor hoeft te geven.
+In dit experiment kruip jij in de rol van moderator van een reactieplatform en is het jouw taak om de
+discussie in goede banen te leiden.
 
-Ook heb je altijd het recht om toegang te vragen tot jouw data, om je keuzes aan te passen, te laten
-verwijderen, of het verwerken van persoonlijke data tegen te gaan. Voor meer informatie kan je kijken op
-[www.tilburguniversity.edu/privacy](https://www.tilburguniversity.edu/privacy).
+Het doel van het experiment is om te kijken welke keuzes mensen maken bij het modereren van een
+discussie, zodat online discussies verbeterd kunnen worden.
 
-Wij zullen op een vertrouwelijke manier met je data omgaan en deze zal via XXX verwerkt worden. Je
-data zal gedurende een periode van XXX bewaard blijven, en de “Research Ethics and Data Management
-Committee” van Tilburg School of Humanities and Digital Sciences heeft goedkeuring verleend voor de
-uitvoering van dit experiment.
+Je krijgt daarom straks twee keer een online nieuws artikel te lezen, en nadat je even de tijd hebt gehad
+om het artikel te lezen, zie je de reacties die daaronder geplaatst zijn. Voor die reacties maak jij de keuze
+of ze mogen blijven staan, en welke reacties je zó goed vindt dat ze uitgelicht mogen worden.
 
-Voor eventuele opmerkingen of klachten over dit onderzoek kun je ook contact opnemen met de
-"Research Ethics and Data Management Committee" van Tilburg School of Humanities and Digital
-Sciences via [tshd.redc@tilburguniversity.edu](mailto:tshd.redc@tilburguniversity.edu)
+Door middel van kunstmatige intelligentie zijn reacties met scheldwoorden er al tussenuit gefilterd. Jouw
+focus als moderator ligt er dus vooral op om de discussie zo constructief mogelijk te maken.
 
-Voor vragen over het onderzoek kun je terecht bij Liesje van der Linden,
-[L.C.A.vdrLinden@tilburguniversity.edu](mailto:L.C.A.vdrLinden@tilburguniversity.edu)
+Voor elke discussie moet er minimaal 1 reactie worden verwijderd, en mogen er 1 - 3 reacties uitgelicht
+worden waarvan jij denkt dat ze een goed voorbeeld zullen zijn voor andere reageerders. Na het maken
+van deze keuzes, krijg je ook de kans om zelf deel te nemen aan de discussie.
 
-:volgende{link="/vragen-vooraf"}
+In totaal zal het experiment zo’n 5 - 10 minuten van je tijd in beslag nemen en er zijn geen risico’s
+verbonden aan je deelname.
+
+Ben jij er klaar voor..?”
+
+:volgende{link="/akkoord"}

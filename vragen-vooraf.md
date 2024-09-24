@@ -1,31 +1,18 @@
-::multiplechoice
----
-q: 1. Om mee te kunnen doen, moet je 18 jaar of ouder zijn. Is dit voor jou het geval?
-options: ['ja', 'nee']
-reference: vooraf1
----
-::
+Dan kunnen we nu gaan beginnen met het experiment! Aller eerst hebben we een paar algemene
+vragen voor je.
 
 ::multiplechoice
 ---
-q: 2. Daarnaast moet jouw moedertaal Nederlands zijn. Is dat het geval?
-options: ['ja', 'nee']
-reference: vooraf2
----
-::
-
-::multiplechoice
----
-q: 3. Met welk geslacht identificeer jij jezelf het meest?
+q: Met welk geslacht identificeer jij jezelf het meest?
 options: ['Man','Vrouw','Zeg ik liever niet','Anders, namelijk...']
-reference: vooraf3
+reference: geslacht
 open: Anders, namelijk...
 ---
 ::
 
 ::multiplechoice
 ---
-q: 4. Wat is je leeftijd?
+q: Wat is je leeftijd?
 reference: leeftijd
 options: 
   - 18-25
@@ -35,13 +22,16 @@ options:
   - 41-45
   - 46-50
   - 51-55
+  - 56-60
+  - 61-65
+  - 65+
 ---
 ::
 
 ::multiplechoice
 ---
-q: 5. Wat is je hoogst voltooide opleiding?
-reference: vooraf5
+q: Wat is je hoogst voltooide opleiding?
+reference: opleiding
 options:
   - Geen
   - Basisonderwijs
@@ -56,29 +46,29 @@ options:
 
 ::howoften
 ---
-q: 6. Hoe vaak lees je online nieuwsberichten?
-reference: vooraf6
+q: Hoe vaak lees je online nieuwsberichten?
+reference: leesnieuwsberichten
 ---
 ::
 
 
 ::howoften
 ---
-q: 7. Hoe vaak lees je de reacties onder online nieuwsberichten?
-reference: vooraf7
+q: Hoe vaak lees je de reacties onder online nieuwsberichten?
+reference: leesreacties
 ---
 ::
 
 ::howoften
 ---
-q: 8. Hoe vaak reageer je zelf op online nieuwsberichten?
-reference: vooraf8
+q: Hoe vaak reageer je zelf op online nieuwsberichten?
+reference: reageeronline
 ---
 ::
 
 ::volgende{link="/voor-text-1" opslaan=true}
 ---
-check: ['vooraf1','vooraf2','vooraf3', 'leeftijd', 'vooraf5', 'vooraf6', 'vooraf7', 'vooraf8']
+check: ['geslacht', 'leeftijd', 'opleiding', 'leesnieuwsberichten', 'leesreacties', 'reageeronline']
 ---
 Start de test 
 ::

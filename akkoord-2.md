@@ -1,3 +1,5 @@
+## Voordat we beginnen zijn er nog een paar dingen waar we je op willen wijzen.
+
 ::multiplechoice
 ---
 q: Om mee te kunnen doen, moet je 18 jaar of ouder zijn. Is dit voor jou het geval?

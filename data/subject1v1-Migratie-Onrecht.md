@@ -1,4 +1,4 @@
-# 1. Kabinet stopt met rijkssubsidies voor bed-bad-brood regeling voor vreemdelingen
+# Kabinet stopt met rijkssubsidies voor bed-bad-brood regeling voor vreemdelingen
 
 Het kabinet stopt met de financiering van de Landelijke Vreemdelingen Voorziening (LVV), wat vaak de bed-bad-brood regeling wordt genoemd. Dit maakt het kabinet bekend na een overleg met de betrokken gemeenten.
 

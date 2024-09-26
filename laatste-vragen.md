@@ -1,8 +1,7 @@
-Goed gedaan! Bedankt voor het modereren van de discussies en het plaatsen van je reacties.
+**Goed gedaan!** Bedankt voor het modereren van de discussies en het plaatsen van je reacties.
 Je bent bijna klaar met je deelname aan het experiment. We hebben alleen nog een paar laatste vragen
-voor je
+voor je:
 
-Op een Likertschaal van 1—7 van ‘Helemaal mee oneens’ naar ‘Helemaal mee eens’
 
 ::likert{reference="laatstevraag1"}
 CONTENT vraag eerste artikel

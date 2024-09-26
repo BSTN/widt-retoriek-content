@@ -4,7 +4,7 @@ In dit experiment van Tilburg University kruip jij in de rol van moderator van e
 
 Het doel van het experiment is om te kijken welke keuzes mensen maken bij het modereren van een discussie, zodat online discussies verbeterd kunnen worden.
 
-Je krijgt daarom straks twee keer een online nieuws artikel te lezen, en nadat je even de tijd hebt gehad om het artikel te lezen, zie je de reacties die daaronder geplaatst zijn. Voor elke reactie geef je aan in hoeverre je deze reactie een goede bijdrage aan de discussie vindt. Na het maken van deze keuzes, krijg je ook de kans om zelf deel te nemen aan de discussie. 
+Je krijgt daarom straks twee keer een online nieuws artikel te lezen, en nadat je even de tijd hebt gehad om het artikel te lezen, zie je de reacties die daaronder geplaatst zijn. Voor elke reactie geef je aan in hoeverre je deze reactie een goede bijdrage aan de discussie vindt. Nadat je dit gedaan hebt, vragen we je om zelf een reactie te plaatsen. 
 
 In totaal zal het experiment zo’n 10 - 15 minuten van je tijd in beslag nemen en er zijn geen risico’s verbonden aan je deelname.
 

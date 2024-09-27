@@ -1,6 +1,5 @@
 **Goed gedaan!** Bedankt voor het modereren van de discussies en het plaatsen van je reacties.
-Je bent bijna klaar met je deelname aan het experiment. We hebben alleen nog een paar laatste vragen
-voor je:
+Je bent bijna klaar met je deelname aan het experiment. We zijn alleen nog benieuwd naar jouw mening over de volgende stellingen.
 
 
 ::likert{reference="laatstevraag1"}

@@ -27,7 +27,7 @@ Het is zorgelijk dat gemeenten kunnen beslissen over het weghalen van aardgasnet
 Ik heb een sterke mening als het aankomt op klimaatverandering:
 ::
 ::likert{reference="laatstevraag9"}
-Ik denk dat migratie een polariserend onderwerp is in de samenleving: 
+Ik denk dat klimaatverandering een polariserend onderwerp is in de samenleving: 
 ::
 ::likert{reference="laatstevraag10"}
 Ik vond het artikel over klimaatverandering erg overtuigend:

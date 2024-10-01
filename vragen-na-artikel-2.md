@@ -1,6 +1,7 @@
 **Goed gedaan!** Bedankt voor het modereren van de discussies en het plaatsen van je reacties.
 Je bent bijna klaar met je deelname aan het experiment. We zijn alleen nog benieuwd naar jouw mening over de volgende stellingen.
 
+::laatstevragen{:random='["3","4"]'}
 
 ::likert{reference="laatstevraag1"}
 Ik ben een voorstander van subsidies voor de opvang van migranten:
@@ -17,6 +18,16 @@ Ik denk dat migratie een polariserend onderwerp is in de samenleving:
 ::likert{reference="laatstevraag5"}
 Ik vond het artikel over migratie erg overtuigend:
 ::
+
+::volgende{link=/afsluiting opslaan=true}
+---
+check: ['laatstevraag1','laatstevraag2','laatstevraag3','laatstevraag4','laatstevraag5']
+---
+::
+::
+
+::laatstevragen{:random='["1","2"]'}
+
 ::likert{reference="laatstevraag6"}
 Ik ben een voorstander van het aardgasvrij maken van woningen:
 ::
@@ -35,6 +46,8 @@ Ik vond het artikel over klimaatverandering erg overtuigend:
 
 ::volgende{link=/afsluiting opslaan=true}
 ---
-check: ['laatstevraag1','laatstevraag2','laatstevraag3','laatstevraag4','laatstevraag5','laatstevraag6','laatstevraag7','laatstevraag8','laatstevraag9','laatstevraag10']
+check: ['laatstevraag6','laatstevraag7','laatstevraag8','laatstevraag9','laatstevraag10']
 ---
+::
+
 ::

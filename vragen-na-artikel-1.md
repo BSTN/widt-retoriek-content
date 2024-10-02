@@ -1,22 +1,22 @@
-**Goed gedaan!** Bedankt voor het modereren van de discussies en het plaatsen van je reacties.
-Je bent bijna klaar met je deelname aan het experiment. We zijn alleen nog benieuwd naar jouw mening over de volgende stellingen.
+**Goed gedaan!** Bedankt voor het beoordelen van de eerste discussie en het plaatsen van je eigen reactie.
+Voordat we doorgaan naar de tweede discussie, zijn we benieuwd naar jouw antwoord op de volgende stellingen.
 
 ::laatstevragen{:random='["1","2"]'}
 
 ::likert{reference="laatstevraag1"}
-Ik ben een voorstander van subsidies voor de opvang van migranten:
+De wethouder die aan het woord komt in het artikel was een voorstander van de subsidie voor bed-bad-brood:
 ::
 ::likert{reference="laatstevraag2"}
-Het is een goed besluit om te stoppen met de financiering van de bed-bad-brood regeling:
+Ik ben zelf een voorstander van subsidies voor de opvang van migranten:
 ::
 ::likert{reference="laatstevraag3"}
-Ik heb een sterke mening als het aankomt op migratie:
+Het is een goed besluit om te stoppen met de financiering van de bed-bad-brood regeling:
 ::
 ::likert{reference="laatstevraag4"}
-Ik denk dat migratie een polariserend onderwerp is in de samenleving:
+Ik heb een sterke mening als het aankomt op migratie:
 ::
 ::likert{reference="laatstevraag5"}
-Ik vond het artikel over migratie erg overtuigend:
+Ik denk dat migratie een polariserend onderwerp is in de samenleving:
 ::
 
 ::volgende{link=/tussenpagina opslaan=true}

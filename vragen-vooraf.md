@@ -1,4 +1,4 @@
-Dan kunnen we nu gaan beginnen met het experiment! Aller eerst hebben we een paar algemene
+Dan kunnen we nu gaan beginnen met het experiment! Allereerst hebben we een paar algemene
 vragen voor je.
 
 ::multiplechoice

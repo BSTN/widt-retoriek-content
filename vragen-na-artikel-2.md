@@ -29,19 +29,16 @@ check: ['laatstevraag1','laatstevraag2','laatstevraag3','laatstevraag4','laatste
 ::laatstevragen{:random='["1","2"]'}
 
 ::likert{reference="laatstevraag6"}
-Het raadslid wat aan het woord kwam in het artikel had een positieve boodschap over de kostenverdeling voor de warmtetransitie:
+Het raadslid wat aan het woord kwam in het artikel had een positieve boodschap over de kosten van de warmtetransitie:
 ::
 ::likert{reference="laatstevraag7"}
-Ik ben een voorstander van het aardgasvrij maken van woningen:
+Ik ben een voorstander van het aardgasvrij verwarmen van woningen:
 ::
 ::likert{reference="laatstevraag8"}
-Het is zorgelijk dat gemeenten kunnen beslissen over het weghalen van aardgasnetten:
+Ik heb een sterke mening als het aankomt op de warmtetransitie:
 ::
 ::likert{reference="laatstevraag9"}
-Ik heb een sterke mening als het aankomt op klimaatverandering:
-::
-::likert{reference="laatstevraag10"}
-Ik denk dat klimaatverandering een polariserend onderwerp is in de samenleving: 
+Ik denk dat de warmtetransitie een polariserend onderwerp is in de samenleving: 
 ::
 
 ::volgende{link=/afsluiting opslaan=true}

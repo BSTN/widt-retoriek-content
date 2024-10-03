@@ -1,4 +1,4 @@
-## Voordat we beginnen zijn er nog een paar dingen waar we je op willen wijzen.
+## Voordat we beginnen zijn er nog een paar dingen waar we je op willen wijzen
 
 ::multiplechoice
 ---

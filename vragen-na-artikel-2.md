@@ -1,4 +1,4 @@
-**Goed gedaan!** Bedankt voor het beoordelen van de tweede discussie en het plaatsen van je eigen reactie.
+Bedankt voor het beoordelen van de tweede discussie en het plaatsen van je eigen reactie.
 Je bent bijna klaar met je deelname aan het experiment. We zijn als laatste alleen nog benieuwd naar jouw mening over de volgende stellingen.
 
 ::laatstevragen{:random='["3","4"]'}

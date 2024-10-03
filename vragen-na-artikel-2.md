@@ -4,7 +4,7 @@ Je bent bijna klaar met je deelname aan het experiment. We zijn als laatste alle
 ::laatstevragen{:random='["3","4"]'}
 
 ::likert{reference="laatstevraag1"}
-De wethouder die aan het woord kwam in het artikel was een voorstander van de subsidie voor bed-bad-brood:
+De wethouder die aan het woord kwam in het artikel had een positieve boodschap over het helpen van vluchtelingen:
 ::
 ::likert{reference="laatstevraag2"}
 Ik ben zelf een voorstander van subsidies voor de opvang van migranten:
@@ -29,7 +29,7 @@ check: ['laatstevraag1','laatstevraag2','laatstevraag3','laatstevraag4','laatste
 ::laatstevragen{:random='["1","2"]'}
 
 ::likert{reference="laatstevraag6"}
-Het raadslid wat aan het woord kwam in het artikel had een positieve boodschap over de kostenverdeling:
+Het raadslid wat aan het woord kwam in het artikel had een positieve boodschap over de kostenverdeling voor de warmtetransitie:
 ::
 ::likert{reference="laatstevraag7"}
 Ik ben een voorstander van het aardgasvrij maken van woningen:

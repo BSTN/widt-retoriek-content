@@ -1,4 +1,4 @@
-## __Voordat we beginnen zijn er nog een paar dingen waar we je op willen wijzen.__
+## __Voordat we beginnen zijn er nog een paar dingen waar we je op willen wijzen__
 
 Jouw deelname aan dit experiment is **geheel vrijwillig**. Je mag op elk moment besluiten om toch niet meer mee te doen (ook tijdens het beoordelen van de reacties) zonder dat daar negatieve consequenties aan verbonden zijn, en zonder dat je hier een uitleg voor hoeft te geven.
 

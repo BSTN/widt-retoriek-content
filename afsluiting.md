@@ -6,7 +6,7 @@ Klik onderaan deze pagina op **'Versturen en afsluiten'** om de data op te slaan
 
 *Over het experiment:*
 
-De nieuws artikelen en bijbehorende discussies uit dit experiment waren niet echt, maar wel gebaseerd op echte artikelen en discussies. Je hebt twee verschillende nieuws artikelen gelezen, waarvan er één een populistische retoriek bevatte en de andere niet. Daarnaast bevatte een deel van de commentaren in de discussies meningen die duidelijk gemarkeerd werden voor hun subjectiviteit, terwijl die markering bij de andere commentaren ontbrak. Als onderzoekers zijn wij geïnteresseerd in het verband tussen de populistische retoriek in nieuws artikelen en de duidelijke markering van subjectiviteit in de bijbehorende commentaren.
+De nieuws artikelen en bijbehorende discussies uit dit experiment waren niet echt, maar wel gebaseerd op echte artikelen en discussies. Je hebt twee verschillende nieuws artikelen gelezen, waarvan er één een quote bevatte waarin het onrecht voor de gewone burger werd benadrukt en de andere niet. Daarnaast bevatte een deel van de commentaren in de discussies meningen die duidelijk gemarkeerd werden voor hun subjectiviteit, terwijl die markering bij de andere commentaren ontbrak. Als onderzoekers zijn wij geïnteresseerd in het verband tussen het benadrukken van onrecht voor de gewone burger in nieuws artikelen en de duidelijke markering van subjectiviteit in de bijbehorende commentaren.
 
 
 Hieronder is nog ruimte om opmerkingen achter te laten, en als je nog vragen voor ons hebt dan kan je contact opnemen met Liesje van der Linden via L.C.A.vdrLinden@tilburguniversity.edu

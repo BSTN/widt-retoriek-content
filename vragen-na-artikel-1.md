@@ -18,7 +18,7 @@ Ik denk dat vluchtelingenopvang een polariserend onderwerp is in de samenleving:
 
 ::volgende{link=/tussenpagina opslaan=true}
 ---
-check: ['laatstevraag1','laatstevraag2','laatstevraag3','laatstevraag4','laatstevraag5']
+check: ['laatstevraag1','laatstevraag2','laatstevraag3','laatstevraag4']
 ---
 ::
 
@@ -41,7 +41,7 @@ Ik denk dat de warmtetransitie een polariserend onderwerp is in de samenleving:
 
 ::volgende{link=/tussenpagina opslaan=true}
 ---
-check: ['laatstevraag6','laatstevraag7','laatstevraag8','laatstevraag9','laatstevraag10']
+check: ['laatstevraag5','laatstevraag6','laatstevraag7','laatstevraag8']
 ---
 ::
 

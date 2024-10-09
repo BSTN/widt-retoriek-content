@@ -4,4 +4,4 @@ Uit onderzoek blijkt dat de meeste Nederlanders positief zijn over de overgang n
 
 Een raadslid van de gemeente Woerden zegt hierover: ‘Niet iedereen heeft de middelen om duurzaam te verwarmen, dus we willen een eerlijke verdeling van de kosten voor de warmtetransitie. Iedereen verdient gelijke kansen!’
 
-Maar het vertrouwen in gemeentelijke plannen is laag. Veel deelnemers van het onderzoek vinden dat een overstap naar duurzame verwarming niet afgedwongen zou mogen worden.
+Het vertrouwen in gemeentelijke plannen blijkt laag. Veel deelnemers van het onderzoek vinden dat een overstap naar duurzame verwarming niet afgedwongen zou mogen worden.

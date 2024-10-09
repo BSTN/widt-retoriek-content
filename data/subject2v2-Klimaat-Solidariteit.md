@@ -1,7 +1,7 @@
 # Burgers steunen de warmtetransitie, maar vrezen kosten
 
-Uit onderzoek blijkt dat de meeste Nederlanders positief zijn over de overgang naar verwarming zonder aardgas, maar wel zorgen hebben over de betaalbaarheid van alternatieven. Gemeenten zijn verantwoordelijk voor de verdeling van deze kosten.
+Uit onderzoek blijkt dat de meeste Nederlanders positief zijn over de overgang naar gasloze verwarming: de warmtetransitie. Wel maakt men zich zorgen over hoge kosten voor alternatieven. Toch vraagt de overheid gemeenten om plannen op te stellen voor het weghalen van aardgasnetten.
 
-Een raadslid van de gemeente Woerden zegt hierover het volgende: ‘Niet iedereen heeft de middelen om duurzaam te verwarmen, dus we willen een eerlijke verdeling van de kosten voor deze transitie. Iedereen verdient gelijke kansen!’
+Een raadslid van de gemeente Woerden zegt hierover: ‘Niet iedereen heeft de middelen om duurzaam te verwarmen, dus we willen een eerlijke verdeling van de kosten voor de warmtetransitie. Iedereen verdient gelijke kansen!’
 
-Maar het vertrouwen in gemeenten is laag. Veel deelnemers van het onderzoek vinden dat de gemeente een overstap naar duurzame verwarming niet zou mogen afdwingen.
+Maar het vertrouwen in gemeentelijke plannen is laag. Veel deelnemers van het onderzoek vinden dat een overstap naar duurzame verwarming niet afgedwongen zou mogen worden.

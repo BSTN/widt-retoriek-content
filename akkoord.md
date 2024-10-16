@@ -6,7 +6,7 @@ De data die voortkomt uit jouw deelname is volledig anoniem en zal gedurende een
 
 Voor eventuele opmerkingen of klachten over dit onderzoek kun je ook contact opnemen met de “Research Ethics and Data Management Committee” van Tilburg School of Humanities and Digital Sciences via tshd.redc@tilburguniversity.edu
 
-Voor vragen over het onderzoek kun je terecht bij Liesje van der Linden, L.C.A.vdrLinden@tilburguniversity.edu
+Voor vragen over het onderzoek kun je terecht bij Liesje van der Linden, ter plekke of via L.C.A.vdrLinden@tilburguniversity.edu
 
 
 :volgende{link="/akkoord-2"}

@@ -40,13 +40,13 @@ options:
   - Hoger algemeen voortgezet onderwijs (havo)
   - Voorbereidend wetenschappelijk onderwijs (vwo)
   - Hoger beroeps onderwijs (hbo)
-  - wetenschappelijk onderwijs (wo)
+  - Wetenschappelijk onderwijs (wo)
 ---
 ::
 
 ::howoften
 ---
-q: Hoe vaak lees je online nieuwsberichten?
+q: Hoe vaak lees je online nieuwsberichten? (bijv. via sociale media of op nieuwswebsites)
 reference: leesnieuwsberichten
 ---
 ::
@@ -54,14 +54,14 @@ reference: leesnieuwsberichten
 
 ::howoften
 ---
-q: Hoe vaak lees je de reacties onder online nieuwsberichten?
+q: Hoe vaak lees je de reacties onder deze online nieuwsberichten?
 reference: leesreacties
 ---
 ::
 
 ::howoften
 ---
-q: Hoe vaak reageer je zelf op online nieuwsberichten?
+q: Hoe vaak reageer je zelf op deze online nieuwsberichten?
 reference: reageeronline
 ---
 ::
